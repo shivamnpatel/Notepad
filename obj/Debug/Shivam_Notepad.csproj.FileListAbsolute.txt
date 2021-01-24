@@ -1,0 +1,3 @@
+C:\Users\Shivam Patel\Documents\Visual Studio 2012\Projects\Notepad\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\Shivam Patel\Documents\Visual Studio 2012\Projects\Notepad\Notepad\obj\Debug\Notepad.exe
+C:\Users\Shivam Patel\Documents\Visual Studio 2012\Projects\Notepad\Notepad\obj\Debug\Notepad.pdb
